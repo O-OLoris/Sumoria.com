@@ -1,2 +1,2 @@
-# sumoria.com
+# Sumoria.com
 Serveur Discord communautaire
